@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GomoProj", "GomoProj.csproj", "{CBE0A087-5177-42BA-6D83-661965CD5E7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GomoProj.Editor", "GomoProj.Editor.csproj", "{C2856383-1C0A-121F-83B5-92C2054FFE2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBE0A087-5177-42BA-6D83-661965CD5E7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE0A087-5177-42BA-6D83-661965CD5E7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE0A087-5177-42BA-6D83-661965CD5E7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE0A087-5177-42BA-6D83-661965CD5E7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2856383-1C0A-121F-83B5-92C2054FFE2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2856383-1C0A-121F-83B5-92C2054FFE2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2856383-1C0A-121F-83B5-92C2054FFE2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2856383-1C0A-121F-83B5-92C2054FFE2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
